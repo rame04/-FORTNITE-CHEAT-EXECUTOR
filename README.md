@@ -10,5 +10,4 @@ Why not ImGui?
 ImGui relies on CRT dependencies like malloc, memcpy, and sprintf and C++ operators like new and free.
 For manual mapped DLLs it creates problems because C++ operators and CRT functions can't be resolved during mapping.
 ImGui also creates font atlas textures and leaves byte patterns in memory, combined with the CRT makes it a deadly detection for Anti-Cheats.**
-
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Z_8841UEvKzpz6lbVxJTGNIk_8Szw1YZHUDWKbammw&s=10
+<img width="597" height="335" alt="images" src="https://github.com/user-attachments/assets/20375f4c-b001-47b6-852b-e86c3f40e115" />
